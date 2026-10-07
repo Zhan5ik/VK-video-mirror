@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "VK Video Mirror",
+  "version": "1.0.0",
+  "description": "Mirror videos on the current tab and open a mirrored Picture-in-Picture window.",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_title": "VK Video Mirror",
+    "default_popup": "popup.html"
+  }
+}
