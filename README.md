@@ -4,8 +4,8 @@ A lightweight Chrome extension for mirroring video players on the current tab, i
 
 ## Features
 
-- **Mirror / restore** — horizontally flips the largest visible video on the active tab. Click again to restore its previous scale.
-- **Mirrored Picture-in-Picture** — adds a floating button to the page. Click it to open the current video in a mirrored PiP window.
+- **Mirror / restore** - horizontally flips the largest visible video on the active tab. Click again to restore its previous scale.
+- **Mirrored Picture-in-Picture** - adds a floating button to the page. Click it to open the current video in a mirrored PiP window.
 - Searches open Shadow DOM roots, which lets it find players that regular page selectors cannot reach.
 - Requests access only to the active tab after you click the extension icon. It does not run a background service.
 
